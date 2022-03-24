@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-23T14:29:41 IST" name="Default suite" finished-at="2022-03-23T14:30:00 IST" duration-ms="19242">
+    <groups>
+    </groups>
+    <test started-at="2022-03-23T14:29:41 IST" name="Default test" finished-at="2022-03-23T14:30:00 IST" duration-ms="19242">
+      <class name="com.crm.vtiger.LoginApplicationTest">
+        <test-method signature="loginpage()[pri:0, instance:com.crm.vtiger.LoginApplicationTest@6da21078]" started-at="2022-03-23T14:29:41 IST" name="loginpage" finished-at="2022-03-23T14:30:00 IST" duration-ms="19195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+      </class> <!-- com.crm.vtiger.LoginApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
