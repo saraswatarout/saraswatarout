@@ -10,6 +10,7 @@ public class CreateOrganizationTest {
 	@Test
 	public void createquotation() {
 		System.out.println("quotatin is created");
+		System.out.println("org modified");
 	}
 
 }
