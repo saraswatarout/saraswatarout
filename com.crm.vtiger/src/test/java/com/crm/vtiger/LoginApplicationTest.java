@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class LoginApplicationTest {
-	@Test
+	@Test(groups = {"smokeTest"})
 	public void loginpage() {
 		String browser=(System.getProperty("browser"));
 		String url=(System.getProperty("url"));

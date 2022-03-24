@@ -3,7 +3,7 @@ package com.crm.vtiger;
 import org.testng.annotations.Test;
 
 public class CreateOrganizationTest {
-	@Test(groups={"smoke","regression"})
+	@Test(groups={"smokeTest","regression"})
 	public void create() {
 		System.out.println("organization is created");
 	}
