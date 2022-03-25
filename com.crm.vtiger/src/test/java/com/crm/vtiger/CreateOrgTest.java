@@ -8,9 +8,6 @@ public class CreateOrgTest {
 		System.out.println("user 1 created");
 		System.out.println("user 2 modified");
 		System.out.println("user changes");
-
-		
-
 		System.out.println("change the code");
 		System.out.println("New Update");
 		
